@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6p0094/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0094/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起一心精進念佛七期規式
+  identifiers:
+    krp: KR6p0094
+    cbeta: X62n1175
+    cbeta_old_id: X62n1175
+    authorityid: CA0002358
+    json_key: X1175
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1175.xml
+    old_id: X62n1175
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0094_000-X.yaml, hash: 'sha256:9530a35f145e1f2346ce297e453b7f9c9de3b0348210d1cf2b5af0258496fb8f'}
+  - {seq: 1, filename: KR6p0094_001-X.yaml, hash: 'sha256:77981dfa6e9afe84503cbb5d655e530ef1f6befcb5c813dca7ea55ae10d30316'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0094_000-X.markers.yaml, hash: 'sha256:a62271cd3f2c0b8ab77c41149d835c58b3ccfa01f0364a9ea08741e0f90f5c3d'}
+  - {seq: 1, role: markers, filename: assets/KR6p0094_001-X.markers.yaml, hash: 'sha256:5cfc1c9b095462e0125451cab507ae5ffb1e5dd1602e1ac9afa374b14e79e58a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0094_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4566
+  label: 起一心精進念佛七期規式
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0094_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 事例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0094_X_001-mulu-2
+    span:
+    - body
+    - 2038
+    - 2038
+  label: 罰例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0094_X_001-mulu-3
+    span:
+    - body
+    - 3046
+    - 3046
+  label: 疏文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0094_X_001-mulu-4
+    span:
+    - body
+    - 3719
+    - 3719
+  label: No. 1175-A 普仁七日念佛記(附錄)
+  type: mulu
+  level: 1
+hash: sha256:dac2888de4f3f14cb08a0238f7a380e6277efa0d6468af6559dc3f24f35ddaa6
