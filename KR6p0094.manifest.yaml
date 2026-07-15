@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0094/v1
 canonical_location: https://kanripo.org/bkk/KR6p0094/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 起一心精進念佛七期規式
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0094_000.yaml, hash: 'sha256:9530a35f145e1f2346ce297e453b7f9c9de3b0348210d1cf2b5af0258496fb8f'}
-  - {seq: 1, filename: KR6p0094_001.yaml, hash: 'sha256:77981dfa6e9afe84503cbb5d655e530ef1f6befcb5c813dca7ea55ae10d30316'}
+  - {seq: 1, filename: KR6p0094_001.yaml, hash: 'sha256:fdfb3465b1b408306da4c2bcab3cb83633b4ab33c8e0197d07c16d1e77e7acf4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0094_000.markers.yaml, hash: 'sha256:fb5e4c0cd4b53021c936f583e4d93ea87aac7e856a8efebc0a94f6c4b08fc83e'}
-  - {seq: 1, role: markers, filename: assets/KR6p0094_001.markers.yaml, hash: 'sha256:7414e4a1730135d568f3608a09782193e5fe68f71a405433591b32d603e39956'}
+  - {seq: 1, role: markers, filename: assets/KR6p0094_001.markers.yaml, hash: 'sha256:33ca812e0e2deec66662c042fa46ad8f3c08fed8bd3b778326bffe570b7bd356'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: No. 1175-A 普仁七日念佛記(附錄)
   type: mulu
   level: 1
-hash: sha256:b5ea3be12e45f3acdedbaad328d62703074374c33ed5d4911a47c696bee3281c
+hash: sha256:a872fd1d944f81f10f1199bbafedf0f6644dedf1e50503d2b90c983906635b84
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
